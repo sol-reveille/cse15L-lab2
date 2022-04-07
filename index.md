@@ -1,5 +1,3 @@
-![Image](screenshot.png)
-
 *Why*
 
 **head owie**
