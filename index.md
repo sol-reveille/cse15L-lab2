@@ -12,9 +12,9 @@
 >
 ![Image](https://upload.wikimedia.org/wikipedia/commons/9/9a/Gull_portrait_ca_usa.jpg)
 
-*ghosts
-*don't
-*exist
+* ghosts
+* don't
+* exist
 
 ---
 
